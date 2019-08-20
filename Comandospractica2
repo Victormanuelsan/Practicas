@@ -1,0 +1,40 @@
+Mozambique24:~ alumno$ ls
+Desktop		Documents	Downloads	Library		Pictures
+Mozambique24:~ alumno$ mkdir practica2
+Mozambique24:~ alumno$ cd practica2
+Mozambique24:practica2 alumno$ mkdir Fundamentosdeprogramacion
+Mozambique24:practica2 alumno$ mkdir Fundamentosdefisica
+Mozambique24:practica2 alumno$ mkdir Quimica
+Mozambique24:practica2 alumno$ mkdir Algebra
+Mozambique24:practica2 alumno$ mkdir Calculo
+Mozambique24:practica2 alumno$ cd Fundamentosdeprogramacion/
+Mozambique24:Fundamentosdeprogramacion alumno$ touch Datosalumno.txt
+Mozambique24:Fundamentosdeprogramacion alumno$ echo "victor Manuel Sanchez 317088454" >> Datosalumno.txt
+Mozambique24:Fundamentosdeprogramacion alumno$ cat Datosalumno.txt
+victor Manuel Sanchez 317088454
+Mozambique24:Fundamentosdeprogramacion alumno$ cd Fundamentosdefisica/
+-bash: cd: Fundamentosdefisica/: No such file or directory
+Mozambique24:Fundamentosdeprogramacion alumno$ cd ..
+Mozambique24:practica2 alumno$ cd Fundamentosdefisica/
+Mozambique24:Fundamentosdefisica alumno$ touch Datosalumno.txt
+Mozambique24:Fundamentosdefisica alumno$ echo "Victor Manuel Sanchez 317088454" >> Datosalumno.txt
+Mozambique24:Fundamentosdefisica alumno$ cd ..
+Mozambique24:practica2 alumno$ cd Quimica/
+Mozambique24:Quimica alumno$ touch Datosalumno.txt 
+Mozambique24:Quimica alumno$ echo "Victor Manuel Sanchez 317088454" >> Datosalumno.txt+
+Mozambique24:Quimica alumno$ cd ..
+Mozambique24:practica2 alumno$ cd Algebra/
+Mozambique24:Algebra alumno$ touch Datosalumno.txt
+Mozambique24:Algebra alumno$ echo "Victor Mnaule Sanchez 317088454" >> Datosalumno.txt
+Mozambique24:Algebra alumno$ cd..
+-bash: cd..: command not found
+Mozambique24:Algebra alumno$ cd ..
+Mozambique24:practica2 alumno$ cd Calculo/
+Mozambique24:Calculo alumno$ tocuh Datosalumnofinal.txt
+-bash: tocuh: command not found
+Mozambique24:Calculo alumno$ touch Datosalumnofinal.txt
+Mozambique24:Calculo alumno$ echo "Victor Sanchez 317088454" >> Datosalumnofinal.txt
+Mozambique24:Calculo alumno$ 
+Mozambique24:Calculo alumno$ Mozambique24:~ alumno$ ls
+-bash: Mozambique24:~: command not found
+Mozambique24:Calculo alumno$ 
