@@ -1,0 +1,39 @@
+Algoritmos
+
+1- Dado un precio, calcular su descuento considerando si el precio es mayor a 100 el descuento será de 10% sino 2% 
+
+Restricciones: Si el numero es <100 su descuento será 2%, si es >100 se aplicara el 10%
+Datos de entrada: Numero 
+Salida: Descuento 
+
+Instrucciones: 
+
+ingresar el precio (numero) del producto
+Si el numero es >100 
+Multiplicar 10 por 100 y dividir entre el numero del precio 
+Resultado sera igual al descuento del producto
+Si el numero es <100
+Multiplicar 2 por 100 y dividir entre el numero del precio
+Resultado sera igual al descuento del producto
+
+
+2- Algoritmo que lea 2 números y se multipliquen, se sumen, se resten y se dividan
+
+Datos de entrada: Numero 1, Numero 2 
+Salida: Resultado de las operaciones
+
+Ingresar numero 1 y numero 2
+Multiplicar numero 1 por numero 2
+Resultado de la operación 
+Sumar numero 1 y numero 2
+Resultado de la operación 
+Restar numero 1 menos numero 2
+Resultado de la operación
+Dividir numero 1 entre numero 2
+
+
+
+
+3- leer 3 números que denote una fecha valida 
+Restricciones : el numero del dia 
+Datos de entrada: numero 1, numero 2, numero 3
